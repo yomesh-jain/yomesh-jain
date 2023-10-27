@@ -6,7 +6,7 @@
 - 🤝 How to reach me : [Do Reach](mailto:yomesgjain9479@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yomesh-jain/)
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=yomesh_jain&theme=github-dark" alt="LeetCode Badges"/>
-![Leetcode Stats](https://leetcard.yomesh_jain/lapor?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/yomesh_jain)
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
