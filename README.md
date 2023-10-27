@@ -39,3 +39,6 @@
 <img src="https://leetcard.jacoblin.cool/yomesh_jain"/>
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=yomesh_jain&theme=github-dark" alt="LeetCode Badges"/>
+
+<h3 align="left">Certifications:</h3>
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://drive.google.com/drive/folders/19KjYVyQQ0k-5OEwqHnSyM1ipV_Y2wycI?usp=sharing)
