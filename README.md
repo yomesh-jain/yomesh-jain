@@ -7,6 +7,7 @@
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=yomesh_jain&theme=github-dark" alt="LeetCode Badges"/>
 <img src="https://leetcard.jacoblin.cool/yomesh_jain"/>
+<img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn"/>
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
