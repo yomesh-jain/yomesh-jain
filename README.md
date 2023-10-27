@@ -12,6 +12,8 @@
 
 <h3 align="left">LeetCode Profile:</h3>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/in/yomesh-jain/)
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=yomesh_jain&theme=github-dark" alt="LeetCode Badges"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yomesh_jain/)
+
 <img src="https://leetcard.jacoblin.cool/yomesh_jain"/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=yomesh_jain&theme=github-dark" alt="LeetCode Badges"/>
