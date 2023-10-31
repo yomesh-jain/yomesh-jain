@@ -39,9 +39,7 @@
 
 <img src="https://leetcard.jacoblin.cool/yomesh_jain"/>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=yomesh_jain&theme=github-dark" alt="LeetCode Badges"/>
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=yomesh_jain&theme=github-dark" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=yomesh_jain" alt="LeetCode Badges"/>
 
 <h3 align="left">Certifications:</h3>
 
