@@ -3,7 +3,7 @@
 
 - 👀 I am interested in Software Development.
 - 🌱 Currently open for open-source contributions and freelancing opportunities.
-- Java Software Developer🚀 | 700+ LeetCode🧠 | Passion for code💻 | Let's connect
+- Java Software Developer🚀 | 800+ LeetCode🧠 | Passion for code💻 | Let's connect
 
 <h3 align="left">Connect with me:</h3>
 
