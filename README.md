@@ -3,7 +3,7 @@
 
 - 👀 I am interested in Software Development.
 - 🌱 Currently open for open-source contributions and freelancing opportunities.
-- Java Software Developer🚀 | 800+ LeetCode🧠 | Passion for code💻 | Let's connect
+- Java Software Developer🚀 | 900+ LeetCode🧠 | Passion for code💻 | Let's connect
 
 <h3 align="left">Connect with me:</h3>
 
@@ -49,7 +49,7 @@
 
 As a seasoned Software Developer with expertise in backend development, I possess a diverse range of technical skills and experience. With a Bachelor of Technology in Information Technology and a strong foundation in data structures, algorithms, and Software development, I have a proven track record of creating high-quality and user-friendly applications. Proficient in Java, Data structure and algorithms, Problem solving and I have also gained expertise in tools such as GIT, GitHub, Netbeans,IntelliJ idea and VSCode, which have been instrumental in my development workflow.
 
-Apart from my technical skills, I am a proficient problem solver, a strong communicator, and a collaborative team player. My commitment to continuous learning is evident in my achievements, including solving over 700+ questions on data structures and algorithms in coding platforms, like LeetCode & GFG and obtaining different certifications like Java(Basic),Problem solving(Basic,Intermediate), SQL(Basic,Intermediate,Advanced) on HackerRank.
+Apart from my technical skills, I am a proficient problem solver, a strong communicator, and a collaborative team player. My commitment to continuous learning is evident in my achievements, including solving over 900+ questions on data structures and algorithms in coding platforms, like LeetCode & GFG and obtaining different certifications like Java(Basic),Problem solving(Basic,Intermediate), SQL(Basic,Intermediate,Advanced) on HackerRank.
 
 In addition, I am passionate about staying updated with the latest industry trends and constantly enhancing my skills through continuous learning. I am also actively involved in extracurricular activities such as participating in hackathons, contributing to open-source projects, and making new projects as well.
 
